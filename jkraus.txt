@@ -1,0 +1,9 @@
+git clone
+git comfig user.email
+git comfig user.name
+git add
+git commit -m
+git status
+git push
+git pull
+git push
