@@ -1,0 +1,11 @@
+C:\FSST2627\git-uebung>git clone https://github.com/KentKNT/Test_ablagoe_jkraus.git
+
+C:\FSST2627\git-uebung>cd C:\FSST2627\git-uebung\Test_ablagoe_jkraus
+
+C:\FSST2627\git-uebung\Test_ablagoe_jkraus>notepad ablagoe.txt
+
+C:\FSST2627\git-uebung\Test_ablagoe_jkraus>git add ablagoe.txt
+
+C:\FSST2627\git-uebung\Test_ablagoe_jkraus>git commit
+
+C:\FSST2627\git-uebung\Test_ablagoe_jkraus>git push
