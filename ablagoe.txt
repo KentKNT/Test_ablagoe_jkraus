@@ -9,3 +9,5 @@ C:\FSST2627\git-uebung\Test_ablagoe_jkraus>git add ablagoe.txt
 C:\FSST2627\git-uebung\Test_ablagoe_jkraus>git commit
 
 C:\FSST2627\git-uebung\Test_ablagoe_jkraus>git push
+
+Änderung
